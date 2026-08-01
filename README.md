@@ -311,8 +311,8 @@ Email services awaiting manual account registration and subsequent testing.
  ❌      | lnemail.net    | ❓ 
  ❌      | ghostbox.cc    | ❓ 
   ❌      | rootshell.is    | ❓ 
-| ❌      | unix.dog   | ❓    
-
+| ❌      | unix.dog   | ❓ 
+| ❌      | neir.io       | ❓    |
 
 <!--
 ## 💻 Installation
