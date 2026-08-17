@@ -313,6 +313,10 @@ Email services awaiting manual account registration and subsequent testing.
   ❌      | rootshell.is    | ❓ 
 | ❌      | unix.dog   | ❓ 
 | ❌      | neir.io       | ❓    |
+| ❌      | smailr.com       | ❓    |
+
+
+
 
 <!--
 ## 💻 Installation
