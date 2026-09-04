@@ -314,7 +314,7 @@ Email services awaiting manual account registration and subsequent testing.
 | ❌      | unix.dog   | ❓ 
 | ❌      | neir.io       | ❓    |
 | ❌      | smailr.com       | ❓    |
-
+| ❌      | thelemail.com       | ❓    |
 
 
 
